@@ -1,0 +1,9 @@
+com.plcoding.analytics.analytics_feature-pngs-0 /Users/heeyoung/Desktop/Runique/analytics/analytics_feature/build/generated/res/pngs/debug
+com.plcoding.analytics.analytics_feature-resValues-1 /Users/heeyoung/Desktop/Runique/analytics/analytics_feature/build/generated/res/resValues/debug
+com.plcoding.analytics.analytics_feature-packageDebugResources-2 /Users/heeyoung/Desktop/Runique/analytics/analytics_feature/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.plcoding.analytics.analytics_feature-packageDebugResources-3 /Users/heeyoung/Desktop/Runique/analytics/analytics_feature/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.plcoding.analytics.analytics_feature-debug-4 /Users/heeyoung/Desktop/Runique/analytics/analytics_feature/build/intermediates/merged_res/debug/mergeDebugResources
+com.plcoding.analytics.analytics_feature-debug-5 /Users/heeyoung/Desktop/Runique/analytics/analytics_feature/src/debug/res
+com.plcoding.analytics.analytics_feature-main-6 /Users/heeyoung/Desktop/Runique/analytics/analytics_feature/src/main/res
+com.plcoding.analytics.analytics_feature-debug-7 /Users/heeyoung/Desktop/Runique/analytics/data/build/intermediates/packaged_res/debug/packageDebugResources
+com.plcoding.analytics.analytics_feature-debug-8 /Users/heeyoung/Desktop/Runique/analytics/presentation/build/intermediates/packaged_res/debug/packageDebugResources
